@@ -1,0 +1,1081 @@
+body {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+.main-div2 {
+    background-color: #526630;
+
+    padding: 20px 15px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.main-div2 a {
+    margin-left: 8px;
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+.main-div {
+    display: flex;
+    background-color: #607738;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px 180px;
+}
+
+.main1 {
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 10px;
+
+}
+
+.main2 {
+    color: white;
+    text-align: center;
+    align-self: center;
+    font-size: larger;
+
+}
+
+.main2 a {
+    padding: 0px 10px;
+    color: white;
+}
+
+.main-div2 {
+    background-color: #526630;
+    padding: 20px 165px;
+    display: flex;
+    text-align: center;
+    align-self: center;
+    justify-content: start;
+}
+
+.header-nav {}
+
+.header-nav a {
+    text-decoration: none;
+    color: white;
+    padding: 20px 10px;
+
+
+}
+
+.maindiv3 {}
+
+.color-div {
+    background-color: black;
+}
+
+.upcoming-course {
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px 171px;
+}
+
+.upcoming-course h1 {
+    font-size: 44px;
+    font-family: sans-serif;
+
+
+}
+
+.upcoming-course p {
+    font-size: 18px;
+    font-family: inherit;
+}
+
+.upcoming-course input {
+    width: 62%;
+    height: 31px;
+    outline: 1px solid black;
+    margin-top: 15px;
+    padding-left: 20px;
+}
+
+.upcoming-course button {
+    width: 18%;
+    height: 47px;
+    margin-top: 10px;
+    background-color: brown;
+    color: white;
+
+}
+
+.buttt {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+}
+
+.learn-laravel {
+    background-color: #607738;
+    color: white;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    height: auto;
+
+}
+
+.main-div4 {
+    display: flex;
+    justify-content: center;
+    margin: 0px 168px;
+}
+
+.pic-div {
+    width: 50%;
+    height: auto;
+
+}
+
+.pic-div img {
+    width: -webkit-fill-available;
+}
+
+.learn-laravel h2 {
+    font-size: 37px;
+}
+
+.learn-laravel h3 {
+    font-size: 27px;
+    font-family: sans-serif;
+    font-weight: initial;
+}
+
+.learn-laravel h4 {
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: initial;
+}
+
+.main-div5 {
+    text-align: center;
+    align-items: center;
+    background-color: #e4e5e2;
+    padding: 7px 25px;
+    /* margin-bottom: 20px; */
+    margin: 20px 168px
+}
+
+.learn-code h1 {
+
+    font-size: 53px;
+    font-weight: lighter;
+
+}
+
+.learn-code h3 {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.main-div6 {
+    display: flex;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.html-div {
+    background-color: #445428;
+    padding: 10px 58px;
+
+
+}
+
+.html-div i {
+    font-size: 78px;
+    margin-left: 43px;
+    color: white;
+
+}
+
+.html-div h1 {
+    color: white;
+}
+
+.css-div h1 {
+    color: white;
+}
+
+.java-div h1 {
+    color: white;
+}
+
+.wordpress-div h1 {
+    color: white;
+}
+
+.css-div {
+    background-color: #445428;
+    padding: 10px 60px;
+    margin-left: 27px;
+}
+
+.css-div i {
+    font-size: 78px;
+    margin-left: 32px;
+    color: white;
+}
+
+.java-div {
+    background-color: #445428;
+    padding: 10px 22px;
+    margin-left: 27px;
+}
+
+.java-div i {
+    font-size: 78px;
+    margin-left: 65px;
+    color: white;
+}
+
+.wordpress-div {
+    background-color: #445428;
+    padding: 10px 22px;
+    margin-left: 27px;
+}
+
+.wordpress-div i {
+    font-size: 78px;
+    margin-left: 71px;
+    color: white;
+}
+
+.hover:hover {
+    background-color: brown;
+}
+
+.html-div :hover {
+    /* color: #445428; */
+    background-color: brown;
+
+}
+
+.main-div7 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 28px 169px;
+
+}
+
+/* icons{
+    display: none;
+} */
+
+.Featured-Lesson {
+    background-color: #e4e5e2;
+    padding: 18px;
+}
+
+.Latest-from-the-Blog {
+    background-color: #e4e5e2;
+    margin-left: 41px;
+    padding: 15px;
+}
+
+.main-div8 {
+    margin-top: 50px;
+    color: #686d61;
+    padding: 20px 10px 5px 10px;
+    background: #a5a99f;
+    font-size: 90%;
+    text-align: center;
+}
+
+.bg-color {
+    background: #bfc1ba;
+}
+
+.checkbtn {}
+
+nav ul {
+    display: flex;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.small-screendiv {
+    display: none;
+
+}
+
+.small1 {
+    background-color: #445428;
+    padding: 10px 73px;
+    margin-top: 15px;
+    margin-left: 17px;
+
+
+}
+
+.small2 {
+    background-color: #445428;
+    padding: 10px 70px;
+    margin-left: 27px;
+    margin-top: 15px;
+}
+
+
+
+
+
+/* /////////////////////////////MEDIA QUERYY /////////////////////////// */
+
+
+/* /////////////////DESKTOP///////////////// */
+@media only screen and (max-width: 1500px) {}
+
+
+
+/* ////////////////MEDIUM/////////////////// */
+@media only screen and (max-width: 992px) {
+    .main-div2 {
+        justify-content: start;
+        padding: 14px 0px;
+        font-size: 16px;
+        font-family: sans-serif;
+    }
+
+    .main-div2 a {
+        margin-left: 24px;
+    }
+
+    .main-div {
+        padding: 10px 35px;
+        /* margin-left: 92px;
+        margin-right: 71px; */
+    }
+
+    .bg-color {
+
+        padding-top: 4px;
+    }
+
+    .main1 {
+        font-size: 9px;
+    }
+
+    .upcoming-course {
+        margin: 18px 27px;
+    }
+
+    .upcoming-course h1 {
+        margin-top: -3px;
+        font-size: 40px;
+    }
+
+    .main-div4 {
+        margin: 0px 28px;
+
+    }
+
+    .pic-div img {
+        height: -webkit-fill-available;
+    }
+
+    .main-div5 {
+        margin: 13px 27px;
+    }
+
+    .learn-code h1 {
+        margin-top: 5px;
+        margin-bottom: -9px;
+
+    }
+
+    .html-div i {
+        font-size: 63px;
+        margin-left: 42px;
+    }
+
+    .css-div i {
+        font-size: 63px;
+        margin-left: 22px;
+    }
+
+    .java-div i {
+        font-size: 63px;
+        margin-left: 39px;
+
+    }
+
+    element.style {
+        font-size: 22px;
+    }
+
+    .java-div h1 {
+        font-weight: 100;
+        font-size: 22px;
+    }
+
+    .wordpress-div i {
+        font-size: 63px;
+        margin-left: 52px;
+    }
+
+    .wordpress-div h1 {
+        font-size: 25px;
+        font-weight: 100;
+    }
+
+    .css-div h1 {
+        font-weight: 100;
+        font-size: 30px;
+    }
+
+    .html-div h1 {
+        font-weight: 100;
+        font-size: 30px;
+    }
+
+    .html-div {
+
+        padding: 5px 34px;
+    }
+
+    .wordpress-div {
+
+        padding: 10px 16px;
+
+    }
+
+    .java-div {
+        padding: 13px 33px;
+
+    }
+
+    .main-div6 {
+        margin-left: 0px;
+
+    }
+
+    .main-div7 {
+        margin: 18px 29px;
+        align-items: unset;
+    }
+
+    .Latest-from-the-Blog h2 {
+        margin-top: -3px;
+    }
+
+    Latest-from-the-Blog h2 a {
+        font-size: 18px;
+        color: green;
+        text-decoration: none;
+    }
+
+    .Featured-Lesson h2 {
+        margin-top: -5px;
+        /* margin-bottom: 7px; */
+    }
+
+    .Featured-Lesson h2 a {
+        color: green;
+        text-decoration: none;
+    }
+
+    .css-div {
+        padding: 5px 40px;
+    }
+
+    .Latest-from-the-Blog h2 a {
+
+        font-size: 17px;
+        text-decoration: none;
+        color: green;
+    }
+
+    .Featured-Lesson p {
+        margin-top: -17px;
+    }
+
+    .Featured-Lesson p a {
+        color: green;
+
+    }
+
+    .Latest-from-the-Blog p a {
+        color: green;
+    }
+
+    .learn-laravel {
+        text-align: center;
+        align-items: center;
+    }
+
+    .learn-laravel h2 {
+        font-size: 31px;
+        margin-bottom: 0px;
+        margin-top: 51px;
+    }
+
+    .learn-laravel h4 {
+        margin-top: -18px;
+    }
+}
+
+
+
+/* ///////////////SMALL///////////////////// */
+@media only screen and (max-width: 768px) {
+    .main2 {
+        /* display: none; */
+
+    }
+
+    .main1 h1 {
+        /* margin-left: -160px; */
+    }
+
+    /* .main-div2 {display: none;
+    } */
+    .main1 h1 {
+        margin-left: 20px;
+    }
+
+    .upcoming-course input {
+        width: 75%;
+    }
+
+    .upcoming-course button {
+        width: 24%;
+        height: 46px;
+    }
+
+    .java-div {
+        display: none;
+    }
+
+    .wordpress-div {
+        display: none;
+    }
+
+    .html-div {
+        padding: 5px 104px;
+        margin-left: 6px;
+    }
+
+    .css-div {
+        padding: 5px 113px;
+    }
+
+    .small-screendiv {
+        display: block;
+    }
+
+    .small-screendiv {
+        display: flex;
+    }
+
+    .small1 i {
+        font-weight: 100;
+        font-size: 55px;
+        margin-left: 70px;
+        color: white;
+    }
+
+    .small2 i {
+        font-size: 63px;
+        margin-left: 52px;
+        color: white;
+
+    }
+
+    .small1 h1 {
+        color: white;
+        font-size: 30px;
+        font-weight: 100;
+    }
+
+    .small2 h1 {
+        color: white;
+        font-size: 30px;
+        font-weight: 100;
+    }
+
+    .main-div7 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Latest-from-the-Blog {
+        margin-top: 23px;
+        margin-left: -12px;
+        width: 100%;
+    }
+
+    .Featured-Lesson {
+        width: 99%;
+        margin-left: -12px;
+    }
+
+    .main-div8 p {
+        margin-top: 4px;
+    }
+}
+
+
+/* /////////////////Xs///////////////////// */
+@media only screen and (max-width: 640px) {
+    .main2 {
+        display: none;
+    }
+
+    .nav {
+        display: flex;
+        flex-direction: column;
+        text-align: start;
+        padding: 6px 0px;
+        align-items: flex-start;
+        margin-left: 11px;
+
+    }
+
+    .main-div2 a {
+        padding: 12px;
+        margin-left: 0px;
+    }
+
+    .boom {
+        display: block !important;
+    }
+
+    .main-div2 {
+        padding: 0px 0px;
+    }
+
+    .upcoming-course {
+        margin: 0%;
+        padding: 1px 63px;
+        background-color: #1A200F;
+    }
+
+    .upcoming-course h1 {
+        font-size: 36px;
+        margin-top: 29px;
+    }
+
+    .upcoming-course input {
+        width: 107%;
+        padding-left: 19px;
+    }
+
+    .upcoming-course button {
+        width: 29%;
+        height: 46px;
+        margin-bottom: 19px;
+    }
+
+    .main-div4 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bg-color {
+        padding-top: 0px;
+    }
+
+    .learn-laravel {
+        margin-left: -27px;
+        width: 110%;
+        margin-top: 21px;
+    }
+
+    .learn-laravel h2 {
+        margin-bottom: -21px;
+        margin-top: 4px;
+    }
+
+    .learn-laravel h4 {
+        font-size: 28px;
+    }
+
+    .learn-laravel h4 {
+        margin-top: -22px;
+        margin-bottom: 6px;
+    }
+
+    .main-div4 {
+        margin: 0px 0px;
+    }
+
+    .pic-div {
+        width: 100%;
+    }
+
+    .main-div5 {
+        margin: 13px 0px;
+    }
+
+    .learn-code h1 {
+        font-size: 32px;
+        font-weight: 100;
+        font-family: sans-serif;
+        margin-top: 16px;
+    }
+
+    .html-div i {
+        font-size: 40px;
+        margin-left: 0px;
+    }
+
+    .html-div h1 {
+        font-size: 25px;
+        margin-top: 5px;
+    }
+
+    .css-div i {
+        font-size: 32px;
+    }
+
+    .css-div h1 {
+        font-size: 26px;
+    }
+
+    .small1 i {
+        font-size: 36px;
+        margin-left: 0px;
+    }
+
+    .small1 h1 {
+        font-size: 25px;
+    }
+
+    .small2 i {
+        font-size: 44px;
+        margin-left: 0px;
+    }
+
+    .small2 h1 {
+        font-size: 25px;
+    }
+
+
+
+    .html-div {
+        margin-left: 0px;
+        text-align: center;
+        padding: 19px 125px;
+        margin-left: -53px;
+    }
+
+    .css-div {
+        margin-left: 15px;
+    }
+
+    .css-div h1 {
+        margin-top: 5px;
+    }
+
+    .css-div {
+        padding: 23px 104px;
+        text-align: center;
+        margin-left: 16px;
+    }
+
+    .small1 {
+        margin-left: 0px;
+        padding: 10px 74px;
+        text-align: center;
+
+    }
+
+    .small2 {
+        text-align: center;
+        padding: 14px 70px;
+        margin-left: 15px;
+    }
+
+    .main-div7 {
+        margin: 18px 0px;
+    }
+
+    .Featured-Lesson h2 a {
+        font-size: 20px;
+    }
+
+    .system {
+        margin-bottom: 4px;
+    }
+
+    .Latest-from-the-Blog h2 {
+        margin-bottom: -16px;
+        font-weight: 500;
+        font-size: 19px;
+        font-family: system-ui;
+    }
+
+    .Featured-Lesson {
+
+        padding: 9px 28px;
+
+    }
+
+    .Latest-from-the-Blog {
+        padding: 15px 28px;
+    }
+
+    .Featured-Lesson h2 {
+        font-weight: 500;
+        font-family: system-ui;
+        font-size: 19px;
+    }
+
+
+}
+@media only screen and (max-width: 400px) {
+    .learn-laravel {
+        margin-left: -27px;
+        width: 110%;
+        margin-top: 21px;
+
+    }
+
+    .upcoming-course {
+        padding: 0px 0px;
+    }
+
+    .learn-laravel {
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .learn-laravel h3 {
+        font-size: 19px;
+        font-family: sans-serif;
+        font-weight: initial;
+        margin-top: 20px;
+        margin-bottom: 19px;
+    }
+
+    .upcoming-course h1 {
+        font-size: 30px;
+    }
+
+    .upcoming-course p {
+        font-size: 21px;
+        font-family: inherit;
+        text-align: center;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .upcoming-course input {
+        width: 81%;
+        padding-left: 0%;
+    }
+
+    .upcoming-course button {
+        width: 39%;
+    }
+
+    .learn-laravel h2 {
+        font-size: 25px;
+    }
+
+    .learn-laravel h4 {
+        font-size: 22px;
+    }
+
+    .html-div {
+        /* margin-left: 0px; */
+        text-align: center;
+        padding: 24px 34px;
+        margin-left: 0px;
+
+
+
+    }
+
+    .css-div {
+        padding: 27px 50px;
+        text-align: center;
+    }
+
+    .small1 {
+        margin-left: 0px;
+        padding: 1px 33px;
+        text-align: center;
+    }
+
+    .small2 {
+        text-align: center;
+        padding: 7px 36px;
+        margin-left: 15px;
+    }
+
+    .Featured-Lesson {
+        padding: opx opx;
+        margin-left: -22px;
+    }
+
+    .main-div7 {
+        align-items: flex-start;
+        padding: 0px 22px;
+    }
+
+    .Latest-from-the-Blog {
+        margin-top: 23px;
+        margin-left: -22px;
+        width: 97%;
+    }
+
+    /* .Latest-from-the-Blog {
+        padding: 0px 0px;
+    } */
+
+    .main-div6 {
+        justify-content: center;
+    }
+
+    .upcoming-course h1 {
+        margin-top: 0px;
+        padding-top: 24px;
+    }
+
+    .upcoming-course input {
+
+        margin-top: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 377px) {
+    .learn-laravel {
+        margin-left: -27px;
+        width: 110%;
+        margin-top: 21px;
+
+    }
+
+    .upcoming-course {
+        padding: 0px 0px;
+    }
+
+    .learn-laravel {
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .learn-laravel h3 {
+        font-size: 19px;
+        font-family: sans-serif;
+        font-weight: initial;
+        margin-top: 20px;
+        margin-bottom: 19px;
+    }
+
+    .upcoming-course h1 {
+        font-size: 30px;
+    }
+
+    .upcoming-course p {
+        font-size: 21px;
+        font-family: inherit;
+        text-align: center;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .upcoming-course input {
+        width: 81%;
+        padding-left: 0%;
+    }
+
+    .upcoming-course button {
+        width: 39%;
+    }
+
+    .learn-laravel h2 {
+        font-size: 25px;
+    }
+
+    .learn-laravel h4 {
+        font-size: 22px;
+    }
+
+    .html-div {
+        margin-left: 0px;
+        text-align: center;
+        padding: 24px 32px;
+        margin-left: 0px;
+
+
+    }
+
+    .css-div {
+        padding: 27px 42px;
+        text-align: center;
+    }
+
+    .small1 {
+        margin-left: 0px;
+        padding: 1px 33px;
+        text-align: center;
+    }
+
+    .small2 {
+        text-align: center;
+        padding: 7px 36px;
+        margin-left: 15px;
+    }
+
+    .Featured-Lesson {
+        padding: opx opx;
+        margin-left: -22px;
+    }
+
+    .main-div7 {
+        align-items: flex-start;
+        padding: 0px 22px;
+    }
+
+    .Latest-from-the-Blog {
+        margin-top: 23px;
+        margin-left: -22px;
+        width: 97%;
+    }
+
+    /* .Latest-from-the-Blog {
+        padding: 0px 0px;
+    } */
+
+    .main-div6 {
+        justify-content: normal;
+    }
+
+    .upcoming-course h1 {
+        margin-top: 0px;
+        padding-top: 24px;
+    }
+
+    .upcoming-course input {
+
+        margin-top: 15px;
+    }
+}
